@@ -1,0 +1,25 @@
+Original
+background: linear-gradient(to right, #0000CD, #00BFFF);
+
+
+Dicas:
+Preto e Roxo
+background: linear-gradient(to right, #000, #6A5ACD);
+
+Tons de Laranja
+background: linear-gradient(to right, #FF4500, #6A5ACD);
+
+
+Preto e Azul
+background: linear-gradient(to right, #000, #000080);
+
+
+Vermelho e Rosa
+background: linear-gradient(to right, #FF0000, #FF69B4);
+
+
+Violeta e Rosa Choque
+background: linear-gradient(to right, #8A2BE2, #FF00FF);
+
+
+
